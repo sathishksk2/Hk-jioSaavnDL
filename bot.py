@@ -30,7 +30,7 @@ welcome = "Hi. Bot moved to @JioSaavnDL_Bot \n ℹ️ Subscribe @TR_BOTS and sha
 
 #Bot config
 
-bot_token ='1113876697:AAHGBJfmoKtJ1UmSzK_2M55nGJ4KrhW0M_c' 
+bot_token ='5411372727:AAH-z8UwR_G2r77CI2PVqovNreDosUEkWXo' 
 updater = Updater(bot_token, use_context=True)
 dp = updater.dispatcher
 
